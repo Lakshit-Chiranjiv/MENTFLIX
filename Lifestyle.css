@@ -1,0 +1,145 @@
+.nav-bar{
+    background-color: #00d6ff ;
+    height: 134px;
+    width: 100%;
+    position: fixed ;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    z-index: 100;
+}
+
+.logo{
+    text-align: center;
+    margin: 10px;
+    padding-left: 30px;
+    float: left;
+}
+
+.logo img{
+    height: 80px;
+    width: 70px;
+}
+
+.logo-text{
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+.nav-page{
+    float :right;
+    font-size: 30px;
+    padding: 47px;
+}
+
+.nav-page a{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Times New Roman';
+    color:bisque;
+    border-style:solid;
+    border-color: darkblue;
+    border-width: 100%;
+    border-radius: 10px;
+}
+
+nav :hover{
+    color: black;
+}
+
+.feedback{
+    margin-top: 100px;
+    text-align:center;
+    font-size: 25px;
+    border-style: double;
+    border-color: black;
+    border-width: 15px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.feedback h2{
+    font-family: 'Times New Roman';
+}
+
+#feed{
+    width: 60%;
+    height: 170px;
+    padding: 5px;
+    
+}
+
+#email{
+    width: 20%;
+}
+
+#fname{
+    width:15%;
+}
+
+#sname{
+    width:15%;
+}
+
+.feedback label{
+    font-weight: bold;
+}
+
+.main{
+    margin-top: 150px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.top{
+    font-family: Verdana;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.desc dt{
+    font-size: 23px;
+    font-family:'Lucida Sans';
+    font-weight: bold;
+}
+
+.desc dd{
+    font-size: 18px;
+    font-family:cursive;
+}
+
+.image img{
+    float: right;
+    margin-right: 50px;
+    height: 30%;
+    width: 30%;
+}
+
+.image2 img{
+    float:left;
+    padding-right:50px;
+    height:30%;
+    width:30%;
+}
+
+.footer{
+    background-color: #00d6ff ;
+    height: 134px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.footer-text{
+    padding-left: 700px;
+}
+
+
+
